@@ -22,7 +22,6 @@ This framework is designed to provide a reusable and scalable automation solutio
 - **Reporting:** Playwright HTML and Allure reports.
 - **Cross-Browser Testing:** Chromium, Firefox and WebKit.
 - **Parallel Execution:** Configurable Playwright workers.
-- **Docker Integration:** Consistent execution in containerized environments.
 - **CI/CD Integration:** Automated test execution using GitHub Actions.
 
 
@@ -37,7 +36,6 @@ Install the following:
 - Node.js (20 or compatible supported version)
 - npm
 - Git
-- Docker Desktop (for Docker execution)
 - Java (required for Allure 2 command-line reporting)
 
 
