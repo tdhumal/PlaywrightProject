@@ -34,3 +34,10 @@
 2026-11-20 15:51:16 [INFO]: Test started: Verif Successful Login
 2026-11-20 15:51:17 [INFO]: Application launched
 2026-11-20 15:51:17 [INFO]: Test completed: Verif Successful Login
+2026-11-20 18:22:40 [INFO]: Test started: Verif Successful Login
+2026-11-20 18:22:47 [INFO]: Test started: Verif Successful Login
+2026-11-20 18:22:49 [INFO]: Application launched
+2026-11-20 18:22:50 [ERROR]: Test failed: Verif Successful Login: [object Object]
+2026-11-20 18:22:50 [INFO]: Failure screenshot attached: Verif Successful Login
+2026-11-20 18:22:51 [INFO]: Application launched
+2026-11-20 18:22:51 [INFO]: Test completed: Verif Successful Login
