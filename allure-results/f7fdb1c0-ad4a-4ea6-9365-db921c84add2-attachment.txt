@@ -1,0 +1,3 @@
+2026-11-20 15:51:16 [INFO]: Test started: Verif Successful Login
+2026-11-20 15:51:17 [INFO]: Application launched
+2026-11-20 15:51:17 [INFO]: Test completed: Verif Successful Login

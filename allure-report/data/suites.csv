@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2104","Verif Successful Login","webkit","2026-11-20","passed","2026-11-20","","login.spec.ts","",""
+"","6599","Verif Successful Login","firefox","2026-11-20","passed","2026-11-20","","login.spec.ts","",""
+"","3201","Verif Successful Login","chromium","2026-11-20","passed","2026-11-20","","login.spec.ts","",""

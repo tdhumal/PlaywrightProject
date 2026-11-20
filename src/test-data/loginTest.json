@@ -1,0 +1,16 @@
+{
+    "LoginScenario":{
+        
+        "Username":"standard_user",
+        "Password":"secret_sauce"
+    },
+
+    "InvalidLogin":{
+        "Username":"tandard_user",
+        "Password":"ecret_sauce"
+
+    }
+
+
+
+}
